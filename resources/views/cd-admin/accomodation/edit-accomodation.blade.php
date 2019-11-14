@@ -45,7 +45,7 @@
         </div>
         </div>
       </form>
-      <a href="{{URL()->previous()}}"><button type="button" class="btn btn-default pull-right" data-dismiss="modal">Back</button></a>
+      <a href="{{URL()->previous()}}"><button type="button" class="btn btn-default pull-right" data-dismiss="modal">Here</button></a>
 
     </div>
   </div>
